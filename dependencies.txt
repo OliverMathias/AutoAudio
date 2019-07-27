@@ -1,0 +1,10 @@
+pillow
+pyttsx3
+wand
+pytesseract
+textwrap
+ghostscript
+pydub
+ffmpeg
+libsndfile
+nltk
