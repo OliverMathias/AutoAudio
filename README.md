@@ -176,7 +176,7 @@ This section is for someone who wants to build a similar project as AutoAudio an
 
   [Tacotron](https://google.github.io/tacotron/), an algorithm released by Google has been (unofficially) implemented in dozens of Github repos over the past 2 years. When researching how to train these open source models on open source speech data, I was shocked to find that it would take about **1 WEEK** of training on a cloud computing service with multiple GPU's!!!
 
-  So it seemed Tacotron was only available to the Scrooge McDucks of the world...
+  So it seemed Tacotron was only available to the Scrooge McDucks of the ML world...
 
   ![navigate](  https://media.giphy.com/media/gQdejV5BBChHi/giphy.gif)
 
