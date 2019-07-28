@@ -33,6 +33,7 @@ This python project takes a standard PDF document as input, and using open sourc
   * [WaveRNN](#wavernn)
   * [Problems](#problems)
 * [Future Improvements](#future-improvements)
+* [Final Model Sample](#final-model-sample)
 * [References](#references)
 * [Acknowledgments](#acknowledgments)
 * [License](#-license)
