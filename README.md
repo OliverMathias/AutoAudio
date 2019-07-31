@@ -64,13 +64,13 @@ AutoAudio was made to be run on a 64bit Windows 10 machine. The following setup 
 
   * #### Clone Repository
    Either download from a GUI or run the 'git clone' command on this url...
-   
+
    ```
    https://github.com/OliverMathias/AutoAudio
    ```
 
   * #### Install Dependencies
-  Because this project utilizes multiple, rather new technologies in tandem, it has quite a few more dependencies than my projects normally do. I will try my best to make the installation of these dependencies as simple as possible.
+    Because this project utilizes multiple, rather new technologies in tandem, it has quite a few more dependencies than my projects normally do. I will try my best to make the installation of these dependencies as simple as possible.
 
     * First, make sure you have a machine running Windows 10.
 
