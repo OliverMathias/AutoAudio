@@ -64,6 +64,7 @@ AutoAudio was made to be run on a 64bit Windows 10 machine. The following setup 
 
   * #### Clone Repository
    Either download from a GUI or run the 'git clone' command on this url...
+   
    ```
    https://github.com/OliverMathias/AutoAudio
    ```
